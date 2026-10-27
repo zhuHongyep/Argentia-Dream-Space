@@ -1,0 +1,11 @@
+:root {
+  --bs-link-color: #237568;
+  --bs-link-hover-color: #154d45;
+}
+body { font-family: system-ui, -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif; }
+.navbar { background: #193d38 !important; }
+h1, h2, h3 { letter-spacing: -.025em; }
+h1 { margin-bottom: 1.25rem; }
+.col-md-9 p, .col-md-9 li { line-height: 1.9; }
+.col-md-9 h2 { margin-top: 2rem; }
+
